@@ -63,3 +63,13 @@ Docker Hub: https://hub.docker.com/r/tuananh235518/backend
       tuananh235518/backend:latest
 
 Docker Hub: https://hub.docker.com/r/tuananh235518/backend
+
+## Chạy frontend bằng Docker
+
+    cd frontend
+    docker build -t tuananh235518/frontend:latest .
+    docker run -d -p 3000:80 -e API_URL="http://localhost:5000" tuananh235518/frontend:latest
+
+Mở http://localhost:3000. Biến `API_URL` là địa chỉ backend API.
+
+Docker Hub: https://hub.docker.com/r/tuananh235518/frontend
