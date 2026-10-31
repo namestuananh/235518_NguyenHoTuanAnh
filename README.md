@@ -51,3 +51,15 @@ npm run dev            # chạy tại http://localhost:5173
       tuananh235518/backend:latest
 
 Docker Hub: https://hub.docker.com/r/tuananh235518/backend
+
+## Chạy backend bằng Docker
+
+    cd backend
+    docker build -t tuananh235518/backend:latest .
+    docker run -d -p 5000:5000 \
+      -e PORT=5000 \
+      -e MONGODB_URI="<chuoi_ket_noi_mongodb_atlas>" \
+      -e CORS_ORIGIN="*" \
+      tuananh235518/backend:latest
+
+Docker Hub: https://hub.docker.com/r/tuananh235518/backend
