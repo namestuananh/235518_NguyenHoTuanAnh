@@ -89,3 +89,7 @@ Docker Hub: https://hub.docker.com/r/tuananh235518/frontend
 - Kiểm tra backend: https://api-235518.onrender.com/health
 
 Lưu ý: gói Free của Render sẽ ngủ đông sau một thời gian không hoạt động, lần truy cập đầu có thể chậm.
+
+## Triển khai
+
+- Frontend (Render): https://web-235518.onrender.com
