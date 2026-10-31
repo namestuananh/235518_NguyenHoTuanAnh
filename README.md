@@ -1,6 +1,7 @@
 # Hệ thống quản lý thiết bị phòng học
 
 Sinh viên: Nguyễn Hồ Tuấn Anh – MSSV: 235518
+
 Học phần: Điện toán đám mây
 
 ## Mô tả đề tài
