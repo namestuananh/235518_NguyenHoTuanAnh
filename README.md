@@ -31,3 +31,10 @@ cd frontend
 npm install
 npm run dev            # chạy tại http://localhost:5173
 ```
+
+## Cơ sở dữ liệu (MongoDB Atlas)
+- Database: `235518_NguyenHoTuanAnh` – Collection: `devices`
+- Các trường: deviceId, name, deviceType, room, brand, model, quantity, status, purchaseDate, description
+- status: Đang sử dụng | Hư hỏng | Đang sửa chữa | Ngừng sử dụng
+- Chuỗi kết nối cấu hình qua biến môi trường `MONGODB_URI` (xem `backend/.env.example`), không đưa lên GitHub.
+- Nạp dữ liệu mẫu: `cd backend && node seed.js`
