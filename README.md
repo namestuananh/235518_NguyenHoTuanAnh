@@ -73,3 +73,7 @@ Docker Hub: https://hub.docker.com/r/tuananh235518/backend
 Mở http://localhost:3000. Biến `API_URL` là địa chỉ backend API.
 
 Docker Hub: https://hub.docker.com/r/tuananh235518/frontend
+
+## Triển khai
+
+- Frontend (Render): URL_FRONTEND
