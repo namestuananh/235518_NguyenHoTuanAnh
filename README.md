@@ -81,3 +81,7 @@ Docker Hub: https://hub.docker.com/r/tuananh235518/frontend
 ## Triển khai
 
 - Frontend (Render): URL_FRONTEND
+
+## Triển khai
+
+- Frontend (Render): https://web-235518.onrender.com
