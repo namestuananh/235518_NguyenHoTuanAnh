@@ -97,3 +97,14 @@ Lưu ý: gói Free của Render sẽ ngủ đông sau một thời gian không h
 - Kiểm tra backend: https://api-235518.onrender.com/health
 
 Lưu ý: gói Free của Render sẽ ngủ đông sau một thời gian không hoạt động, lần truy cập đầu có thể chậm.
+
+## Thông tin nộp bài
+
+| Trường | Nội dung |
+|---|---|
+| Link_GitHub | https://github.com/namestuananh/235518_NguyenHoTuanAnh |
+| Link_Docker_Backend | https://hub.docker.com/r/tuananh235518/backend |
+| Link_Docker_Frontend | https://hub.docker.com/r/tuananh235518/frontend |
+| Link_Render_App | https://web-235518.onrender.com |
+| Link_Render_API | https://api-235518.onrender.com |
+| Link_Data_MongoDB | Cluster0 (cluster0.bztq4fp.mongodb.net), database 235518_NguyenHoTuanAnh, collection devices |
